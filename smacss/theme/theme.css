@@ -1,0 +1,10 @@
+.container{
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 0%;
+    border:1px solid black;   
+}
+h1{
+    background-color: var(--plomo);
+    padding: 0.7em;
+}

@@ -1,0 +1,4 @@
+@import './smacss/base/base.css';
+@import './smacss/base/varibles.css';
+@import './smacss/theme/theme.css';
+@import './smacss/layout/dog.css';

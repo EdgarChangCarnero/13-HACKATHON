@@ -1,0 +1,15 @@
+/*https://fonts.google.com/*/
+
+/*Light 300, Regular 400 y 600*/
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600&display=swap');
+
+/*Roboto Condensed - Regular 400*/
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
+
+
+html{
+    --plomo:#C4C4C4;    
+    --negro: #000000;
+    --open_sans:'Open Sans';
+    --roboto-condense:'Roboto Condensed';
+    }
